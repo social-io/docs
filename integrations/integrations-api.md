@@ -1,4 +1,4 @@
-# Integrations - API
+# API
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}

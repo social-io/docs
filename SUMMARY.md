@@ -8,6 +8,6 @@
 
 ## Integrations
 
-* [Integrations - Get Started](integrations/integrations-get-started.md)
-* [Integrations - API](integrations/integrations-api.md)
+* [Overview of Integrations](integrations/integrations-get-started.md)
+* [API](integrations/integrations-api.md)
 
