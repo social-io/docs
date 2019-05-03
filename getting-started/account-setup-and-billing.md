@@ -21,3 +21,12 @@ The following properties are always tied to an instance and not to individual us
 For a fee of 1€/month you may secure your subdomain across all of Lossless GmbH's apps in case it is still available.
 {% endhint %}
 
+### Billing
+
+social.io is billed either through ...
+
+* ... invoiced with prepayment through **paddle.com** for customers with up to 10 users. Any billing issues are handled by paddle.com support staff. Also your legal billing partner will be paddle.com.
+* ... invoiced with postpayment by BitPerfect OÜ, our European enterprise MSP for customers with more than 10  agents. Your billing contact will be BitPerfect OÜ.
+
+In either case you can manage billing and invoices at [billing.lossless.com](https://billing.lossless.com)
+
